@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/eQuor/eQuor-backend.git
+[submodule "frontend-mobile"]
+	path = frontend-mobile
+	url = https://github.com/eQuor/eQuor-frontend-mobile.git
+[submodule "frontend-web"]
+	path = frontend-web
+	url = https://github.com/eQuor/eQuor-frontend-web.git
